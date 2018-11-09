@@ -10,12 +10,6 @@ How far will they have run when they meet?
 It is easy to understand the dogs meet at center of square. The equations are given
 
 ## Demo
-<div align=center>
-  ![4 Dog Problem](https://github.com/Louis24/Life_Game/blob/master/Gospers_glider_gun.gif)
-</div>
-
-
-
 <div align="center">
 <img src="https://github.com/Louis24/Life_Game/blob/master/Gospers_glider_gun.gif" alt="4 Dog Problem">
 </div>
