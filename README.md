@@ -8,13 +8,14 @@ How far will they have run when they meet?
 
 ## Analysis
 It is easy to understand the dogs meet at center of square. The equations are given
+![](https://github.com/Louis24/Four-Dog-Problem/blob/master/IMG_2590.JPG)
 
 ## Demo
 <div align="center">
 <img src="https://github.com/Louis24/Four-Dog-Problem/blob/master/demo4dog.jpg" alt="4 Dog Problem">
 </div>
 
-## How to type equations in md
+## Equations in MD
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
 <img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
