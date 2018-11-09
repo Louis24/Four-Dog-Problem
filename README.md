@@ -25,6 +25,7 @@ It is easy to understand the dogs meet at center of square. The equations are gi
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 $$ evidence\_{i}=\sum \_{j}W\_{ij}x\_{j}+b\_{i} $$
+$E = mc^2$
 
 
 
