@@ -11,5 +11,5 @@ It is easy to understand the dogs meet at center of square. The equations are gi
 
 ## Demo
 <div align="center">
-<img src="https://github.com/Louis24/Life_Game/blob/master/Gospers_glider_gun.gif" alt="4 Dog Problem">
+<img src="https://github.com/Louis24/Four-Dog-Problem/blob/master/demo4dog.jpg" alt="4 Dog Problem">
 </div>
