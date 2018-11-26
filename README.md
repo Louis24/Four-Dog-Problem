@@ -14,6 +14,9 @@ It is easy to understand the dogs meet at center of square. The equations are gi
 <div align="center">
 <img src="https://github.com/Louis24/Four-Dog-Problem/blob/master/demo4dog.jpg" alt="4 Dog Problem">
 </div>
+<div align="center">
+<img src="https://github.com/Louis24/Four-Dog-Problem/blob/master/demo.gif" alt="4 Dog Problem">
+</div>
 
 ## Equations in MD
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
