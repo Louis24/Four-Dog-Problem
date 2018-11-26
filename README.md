@@ -8,7 +8,7 @@ How far will they have run when they meet?
 
 ## Analysis
 It is easy to understand the dogs meet at center of square. The equations are given
-![](https://github.com/Louis24/Four-Dog-Problem/blob/master/IMG_2590.JPG)
+![](https://github.com/Louis24/Four-Dog-Problem/blob/master/IMG_2978.JPG)
 
 ## Demo
 <div align="center">
